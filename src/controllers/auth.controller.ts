@@ -47,6 +47,11 @@ export class AuthController {
       }
       let ip = await this.httpService.getClientIp(request);
       let location = await this.httpService.getLocationByIp(ip);
+
+      console.log("ip", ip)
+      console.log("location", location)
+      console.log("body", body)
+
       let response = await this.authService.login(
         body.email,
         body.password,

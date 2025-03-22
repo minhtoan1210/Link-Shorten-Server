@@ -99,6 +99,9 @@ export class AuthService {
           'Wrong email or password. Please try again.',
         );
       }
+      
+      console.log("document", document)
+
       let payload = await this.tokenService.generateTokenPayload(document);
       return await this.generate(payload, ip, location);
     }
