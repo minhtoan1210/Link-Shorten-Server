@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "67cfef83b237fe6eac5ed9ce"
+  },
+  "name": "Group 1",
+  "owner": {
+    "$oid": "67cfe9283bbb9a65f480cb00"
+  },
+  "organization": {
+    "$oid": "67cfeec2b237fe6eac5ed9c9"
+  },
+  "users": [],
+  "createdAt": {
+    "$date": "2025-03-11T08:08:35.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T08:08:35.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67da72d18c5bb4e0ebdfdf8f"
+  },
+  "name": "DEMO",
+  "owner": {
+    "$oid": "67d92d96728c32081c11d79b"
+  },
+  "organization": {
+    "$oid": "67da65128c5bb4e0ebdfdecc"
+  },
+  "users": [
+    {
+      "$oid": "67d92d96728c32081c11d79b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-19T07:31:29.071Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T07:31:29.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dcd36291f147d5ff81f55d"
+  },
+  "name": "Group 1",
+  "owner": {
+    "$oid": "67d92d96728c32081c11d79b"
+  },
+  "organization": {
+    "$oid": "67d406f530e1d5ac8c2c8e8c"
+  },
+  "users": [
+    {
+      "$oid": "67d92d96728c32081c11d79b"
+    },
+    {
+      "$oid": "67d53f6e22909c572cb09341"
+    },
+    {
+      "$oid": "67cfe9283bbb9a65f480cb00"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-21T02:48:02.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T09:27:10.707Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "67dd45aeab4f4e56f019a453"
+  },
+  "name": "Trung Tâm Băng Đĩa Lậu Hải Ngoại",
+  "owner": {
+    "$oid": "67d53f6e22909c572cb09341"
+  },
+  "organization": {
+    "$oid": "67d7d82fede3bb3c2404e313"
+  },
+  "users": [
+    {
+      "$oid": "67d53f6e22909c572cb09341"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-21T10:55:42.563Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T10:56:00.166Z"
+  },
+  "__v": 2
+}]

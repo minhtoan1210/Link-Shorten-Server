@@ -1,0 +1,374 @@
+[{
+  "_id": {
+    "$oid": "67c586eda709166ce9071bb9"
+  },
+  "user": {
+    "$oid": "67c01f5896cfcfa7642f3274"
+  },
+  "original": "https://soundcloud.com/deesann/hit-vao-tsss-ra-lil-kim-loai-gia-loc-from-the12",
+  "shorten": "suLC99",
+  "calls": 0,
+  "createdAt": {
+    "$date": "2025-03-03T10:39:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T10:39:41.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c94d11937367453918ed10"
+  },
+  "user": {
+    "$oid": "67b98b5288468829d58b0919"
+  },
+  "original": "https://zustand-demo.pmnd.rs/",
+  "shorten": "INLLrc",
+  "calls": 0,
+  "createdAt": {
+    "$date": "2025-03-06T07:21:53.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T08:24:15.407Z"
+  },
+  "__v": 0,
+  "active": false
+},
+{
+  "_id": {
+    "$oid": "67ca657dd849a3cc62e14a8d"
+  },
+  "user": {
+    "$oid": "67b98b5288468829d58b0919"
+  },
+  "original": "https://ant.design/components/switch",
+  "shorten": "kBgBws",
+  "active": false,
+  "calls": 0,
+  "createdAt": {
+    "$date": "2025-03-07T03:18:21.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T03:42:16.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca9963d849a3cc62e14bbe"
+  },
+  "user": {
+    "$oid": "67b98b5288468829d58b0919"
+  },
+  "original": "gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+  "shorten": "Ieg3s0",
+  "active": false,
+  "calls": 0,
+  "createdAt": {
+    "$date": "2025-03-07T06:59:47.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T08:36:01.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca9969d849a3cc62e14bc8"
+  },
+  "user": {
+    "$oid": "67b98b5288468829d58b0919"
+  },
+  "original": "gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+  "shorten": "VVmjpY",
+  "active": false,
+  "calls": 0,
+  "createdAt": {
+    "$date": "2025-03-07T06:59:53.248Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T08:41:19.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67caad96b688ce567fc20e8e"
+  },
+  "user": {
+    "$oid": "67b98b5288468829d58b0919"
+  },
+  "original": "https://www.youtube.com/watch?v=Z9ERwDa2F1Y",
+  "shorten": "hehe",
+  "active": true,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico",
+  "createdAt": {
+    "$date": "2025-03-07T08:25:58.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T02:15:49.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a0d1d1b9854fc833991d"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/components/form",
+  "shorten": "C4fZZa",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:09:37.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:09:37.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a0d7d1b9854fc8339927"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/v5-for-19",
+  "shorten": "yoZTaW",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:09:43.463Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:09:43.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a0ddd1b9854fc8339931"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/changelog",
+  "shorten": "F3XUHW",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:09:49.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:09:49.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a0e5d1b9854fc833993b"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://cutt.ly/",
+  "shorten": "eCS9LN",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/cutt.ly.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:09:57.976Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:09:57.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a0f3d1b9854fc8339945"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/use-with-umi",
+  "shorten": "MLjf1M",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:10:11.452Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:10:11.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a199d1b9854fc833995a"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/use-with-rsbuild",
+  "shorten": "hZ0726",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:12:57.525Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:12:57.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a2c5d1b9854fc833996e"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/use-with-refine",
+  "shorten": "WiJdot",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:17:57.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:17:57.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a2f9d1b9854fc833998a"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/compatible-style",
+  "shorten": "FmmNg7",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:18:49.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:18:49.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a342d1b9854fc83399a0"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/server-side-rendering",
+  "shorten": "dVeKFE",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:20:02.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:20:02.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a34ad1b9854fc83399aa"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/use-custom-date-library",
+  "shorten": "rbeADk",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:20:10.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:20:10.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a370d1b9854fc83399ba"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/i18n",
+  "shorten": "EglE7C",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:20:48.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:20:48.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a3a0d1b9854fc83399ca"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/recommendation",
+  "shorten": "t0Rgw3",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:21:36.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:21:36.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d2a42bd1b9854fc83399df"
+  },
+  "user": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "original": "https://ant.design/docs/react/migrate-less-variables",
+  "shorten": "JUNEPD",
+  "active": false,
+  "calls": 0,
+  "favicon": "https://icons.duckduckgo.com/ip3/ant.design.ico",
+  "createdAt": {
+    "$date": "2025-03-13T09:23:55.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T09:23:55.187Z"
+  },
+  "__v": 0
+}]

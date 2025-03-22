@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "67d395ebba5efed0df7c2d40"
+  },
+  "email": "quanhtc@gofiber.vn",
+  "value": "X6U1AZ",
+  "expiresAt": {
+    "$date": "2025-03-14T02:45:23.014Z"
+  },
+  "createdAt": {
+    "$date": "2025-03-14T02:35:23.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T02:35:23.018Z"
+  },
+  "__v": 0
+}]

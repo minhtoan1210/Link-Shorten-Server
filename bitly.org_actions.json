@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba16"
+  },
+  "name": "View information of organization",
+  "short_code": "VIEW_ORG",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba19"
+  },
+  "name": "Update information of organization",
+  "short_code": "UPDATE_ORG",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba1c"
+  },
+  "name": "Delete organization",
+  "short_code": "DELETE_ORG",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.532Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba1f"
+  },
+  "name": "Add member to organization",
+  "short_code": "ADD_MEMBER_TO_ORG",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.599Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba22"
+  },
+  "name": "Remove member from organization",
+  "short_code": "REMOVE_MEMBER_FROM_ORG",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.663Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba25"
+  },
+  "name": "Create group",
+  "short_code": "CREATE_GROUP",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba28"
+  },
+  "name": "Update group",
+  "short_code": "UPDATE_GROUP",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba2b"
+  },
+  "name": "Delete group",
+  "short_code": "DELETE_GROUP",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba2e"
+  },
+  "name": "Add member to group",
+  "short_code": "ADD_MEMBER_TO_GROUP",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.924Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d28297130d57f0bb53ba31"
+  },
+  "name": "Remove member from group",
+  "short_code": "REMOVE_MEMBER_FROM_GROUP",
+  "createdAt": {
+    "$date": "2025-03-13T07:00:39.991Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T07:00:39.991Z"
+  },
+  "__v": 0
+}]

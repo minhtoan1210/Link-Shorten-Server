@@ -1,0 +1,376 @@
+[{
+  "_id": {
+    "$oid": "67bbe1e7ec2e6854cd1b4cc7"
+  },
+  "email": "toannvm@gofiber.vn",
+  "fullname": "Nguyễn Vũ Minh Toàn",
+  "hashed_password": "$2b$10$lDGsLAOePCnmxE4h9fyxVeF5eI3bucJvr7iHmUIq.EFXXOOzxv3BC",
+  "links": 13,
+  "createdAt": {
+    "$date": "2025-02-24T03:05:11.901Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T02:35:34.531Z"
+  },
+  "__v": 0,
+  "type": "admin",
+  "groups_joined": [
+    {
+      "$oid": "67ceb40bd974bf59ecdd2b5f"
+    },
+    {
+      "$oid": "67d7f504ede3bb3c2404e38e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67cfe9283bbb9a65f480cb00"
+  },
+  "google_id": "115567577295245850263",
+  "email": "quanhtc@gofiber.vn",
+  "fullname": "Huỳnh Trương Chí Quân",
+  "hashed_password": "$2b$10$ILPtZujoNFCY3NSQAvw18eQDBeow3mU7E0Mdj32NFsgnHAEht01xS",
+  "type": "admin",
+  "links": 0,
+  "organizations": [
+    {
+      "$oid": "67d3df9b30e1d5ac8c2c8e41"
+    },
+    {
+      "$oid": "67d406ad30e1d5ac8c2c8e86"
+    },
+    {
+      "$oid": "67d406f530e1d5ac8c2c8e8c"
+    },
+    {
+      "$oid": "67da65128c5bb4e0ebdfdecc"
+    }
+  ],
+  "groups_joined": [
+    {
+      "$oid": "67dcd36291f147d5ff81f55d"
+    }
+  ],
+  "groups_owned": [
+    {
+      "$oid": "67cfef83b237fe6eac5ed9ce"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-11T07:41:28.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T09:27:10.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0f6542ef97707059c5569"
+  },
+  "email": "pthyst2@gmail.com",
+  "fullname": "Trần Phạm Xuân Nhã",
+  "hashed_password": "$2b$10$neNdVTdGkHsuFvoR8GVs4e2o2k5TOktpA4YDWzzWXi6m9tfAgC77G",
+  "type": "user",
+  "links": 0,
+  "organizations": [
+    {
+      "$oid": "67d4e21ac36a150d3f1d0f31"
+    }
+  ],
+  "groups_joined": [],
+  "groups_owned": [],
+  "createdAt": {
+    "$date": "2025-03-12T02:49:56.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-15T02:12:42.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d4e567c36a150d3f1d0f38"
+  },
+  "email": "ccmk@gmail.com",
+  "fullname": "Nguyễn Văn Quang",
+  "hashed_password": "$2b$10$0uAcWb31L.ZsJD0U.Ca1ceNjIa7IXJX.fCM4UiywqBh7wib0SilgW",
+  "type": "user",
+  "links": 0,
+  "organizations": [],
+  "groups_joined": [],
+  "groups_owned": [],
+  "createdAt": {
+    "$date": "2025-03-15T02:26:47.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T02:30:52.605Z"
+  },
+  "__v": 0,
+  "organizations_joined": [
+    {
+      "$oid": "67d4e21ac36a150d3f1d0f31"
+    },
+    {
+      "$oid": "67d406f530e1d5ac8c2c8e8c"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67d53f6e22909c572cb09341"
+  },
+  "email": "trungtambdlhn@gmail.com",
+  "fullname": "Trung Tâm Băng Đĩa Lậu Hải Ngoại",
+  "hashed_password": "$2b$10$pi.mJuoB7grwMZsNHO8DO.fG9o/mIfqhCI8fiKZucr3FIG1gHmL22",
+  "type": "user",
+  "links": 0,
+  "organizations": [
+    {
+      "$oid": "67d7d82fede3bb3c2404e313"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-15T08:50:54.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T10:55:49.056Z"
+  },
+  "__v": 18,
+  "phone_number": "0523187254",
+  "organizations_joined": [
+    {
+      "$oid": "67d7d82fede3bb3c2404e313"
+    }
+  ],
+  "groups_joined": [
+    {
+      "$oid": "67dcd36291f147d5ff81f55d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67d8f021e1f386c89ea42934"
+  },
+  "email": "toan@gmail.com",
+  "fullname": "Trần Phạm Minh Toàn",
+  "hashed_password": "$2b$10$15yHdXzZuDtIeYGzUnjAKu5Pqer9xfMQtC7k50maHeIw2OYNFACBm",
+  "type": "user",
+  "links": 0,
+  "organizations": [],
+  "organizations_joined": [
+    {
+      "$oid": "67d406f530e1d5ac8c2c8e8c"
+    }
+  ],
+  "groups_joined": [],
+  "groups_owned": [],
+  "createdAt": {
+    "$date": "2025-03-18T04:01:37.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T04:01:45.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d92453fced597b13c19418"
+  },
+  "email": "toan1@gmail.com",
+  "fullname": "Trần Phạm Minh Toàn 1",
+  "hashed_password": "$2b$10$iqJ5XeqXntbCbsoR5xHpuOoRZFvE28FXrfYpj7v9I.Z37m85Yo92i",
+  "type": "user",
+  "links": 0,
+  "organizations": [],
+  "organizations_joined": [],
+  "groups_owned": [],
+  "createdAt": {
+    "$date": "2025-03-18T07:44:19.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T07:46:43.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d9266c8cf5978ae691b087"
+  },
+  "email": "toan2@gmail.com",
+  "fullname": "Trần Phạm Minh Toàn 2",
+  "hashed_password": "$2b$10$FS/coL6jDpTLc1xN063Kh.VOkc7kieti/ZwSJNdXHt.uZ85/w1jHO",
+  "type": "user",
+  "links": 0,
+  "organizations": [],
+  "organizations_joined": [],
+  "groups_owned": [],
+  "createdAt": {
+    "$date": "2025-03-18T07:53:16.156Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T07:53:38.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d927378cf5978ae691b0aa"
+  },
+  "email": "toan3@gmail.com",
+  "fullname": "Trần Phạm Minh Toàn 3",
+  "hashed_password": "$2b$10$Qd7FUkMnU3eps5sps/rsbO8lXhnSdFV6X/Ji3/exgyISMg9htN8FG",
+  "type": "user",
+  "links": 0,
+  "organizations": [],
+  "createdAt": {
+    "$date": "2025-03-18T07:56:39.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-18T07:56:48.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d92897728c32081c11d707"
+  },
+  "email": "toan4@gmail.com",
+  "fullname": "Trần Phạm Minh Toàn 4",
+  "hashed_password": "$2b$10$tSU9mUffRPNMK4NthDo.ZuG6An/uWi9DJDWSryRHZYOyZX4r/Vb7y",
+  "type": "user",
+  "links": 0,
+  "organizations": [],
+  "createdAt": {
+    "$date": "2025-03-18T08:02:31.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T09:00:33.986Z"
+  },
+  "__v": 0,
+  "organizations_joined": [
+    {
+      "$oid": "67da65128c5bb4e0ebdfdecc"
+    }
+  ],
+  "groups_owned": [
+    {
+      "$oid": "67da40888c5bb4e0ebdfddda"
+    },
+    {
+      "$oid": "67da48848c5bb4e0ebdfde5b"
+    }
+  ],
+  "groups_joined": [
+    {
+      "$oid": "67da40888c5bb4e0ebdfddda"
+    },
+    {
+      "$oid": "67da48848c5bb4e0ebdfde5b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67d92cc8728c32081c11d78a"
+  },
+  "email": "toan5@gmail.com",
+  "fullname": "Trần Phạm Minh Toàn 5",
+  "hashed_password": "$2b$10$mbFoq/snnb4OaI.4ibbRLOPLHL1pNIUtoDlE8I0VnuzEDGzBSziHe",
+  "type": "user",
+  "links": 0,
+  "organizations": [],
+  "createdAt": {
+    "$date": "2025-03-18T08:20:24.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T03:56:18.699Z"
+  },
+  "__v": 0,
+  "organizations_joined": [],
+  "groups_owned": [
+    {
+      "$oid": "67da3a568c5bb4e0ebdfdcd8"
+    },
+    {
+      "$oid": "67da404f8c5bb4e0ebdfdd9f"
+    },
+    {
+      "$oid": "67da40608c5bb4e0ebdfddaf"
+    }
+  ],
+  "groups_joined": [
+    {
+      "$oid": "67da404f8c5bb4e0ebdfdd9f"
+    },
+    {
+      "$oid": "67da40608c5bb4e0ebdfddaf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67d92cf8728c32081c11d791"
+  },
+  "email": "toan6@gmail.com",
+  "fullname": "Trần Phạm Minh Toàn 6",
+  "hashed_password": "$2b$10$gpbs8Aw6FTnzkes5Bg2GU.e6IElX4TcDvUfyyCXbPwmJmAk3HZOIy",
+  "type": "user",
+  "links": 0,
+  "organizations": [],
+  "createdAt": {
+    "$date": "2025-03-18T08:21:12.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T10:56:00.264Z"
+  },
+  "__v": 4,
+  "organizations_joined": [],
+  "groups_joined": []
+},
+{
+  "_id": {
+    "$oid": "67d92d96728c32081c11d79b"
+  },
+  "email": "toan7@gmail.com",
+  "fullname": "Trần Phạm Minh Toàn 7",
+  "hashed_password": "$2b$10$muti/OcKy2WAl60Uk7oLFemBNajiFCd8YmG3N4xcb3VpEI6HiaDIO",
+  "type": "user",
+  "links": 0,
+  "createdAt": {
+    "$date": "2025-03-18T08:23:50.202Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T02:48:02.812Z"
+  },
+  "__v": 0,
+  "organizations_joined": [
+    {
+      "$oid": "67da65128c5bb4e0ebdfdecc"
+    }
+  ],
+  "groups_owned": [
+    {
+      "$oid": "67da72d18c5bb4e0ebdfdf8f"
+    },
+    {
+      "$oid": "67da73ef8c5bb4e0ebdfdfaf"
+    }
+  ],
+  "groups_joined": [
+    {
+      "$oid": "67da3a568c5bb4e0ebdfdcd8"
+    },
+    {
+      "$oid": "67da72d18c5bb4e0ebdfdf8f"
+    },
+    {
+      "$oid": "67da73ef8c5bb4e0ebdfdfaf"
+    },
+    {
+      "$oid": "67dcd36291f147d5ff81f55d"
+    }
+  ]
+}]
