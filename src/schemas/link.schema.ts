@@ -29,5 +29,8 @@ export class Link {
   //
   @Prop()
   favicon: string;
+  //
+  @Prop({ default: "" })
+  addtag: string;
 }
 export const LinkSchema = SchemaFactory.createForClass(Link);

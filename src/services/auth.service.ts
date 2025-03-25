@@ -181,8 +181,8 @@ export class AuthService {
 
   //#region isExisted
   async isExisted(email: string): Promise<any> {
-    let count = await this.userModel.countDocuments({ email: email });
-    return count > 0;
+    let count = await this.userModel.findOne({ email: email });
+    return count;
   }
   //#endregion
 }

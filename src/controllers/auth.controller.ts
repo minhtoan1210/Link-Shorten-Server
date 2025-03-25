@@ -161,9 +161,11 @@ export class AuthController {
   async sendResetCode(@Body() body: { email: string }): Promise<any> {
     try {
       let isEmailExisted = await this.authService.isExisted(body.email);
-      if (isEmailExisted == false) {
+
+      if (!isEmailExisted) {
         throw new BadRequestException('Email is not existed.');
       }
+
       let code = await this.resetCodeService.create(body.email);
       let sent = await this.mailService.sendResetCode(body.email, code.value);
       return {

@@ -26,6 +26,7 @@ import * as mongoose from 'mongoose';
 
 //
 import { GoogleStrategy } from 'src/strategies/google.strategy';
+import { FavouritesModule } from './modules/favourites.module';
 //import { SeederService } from 'src/services/seeder.service';
 @Module({
   imports: [
@@ -64,6 +65,7 @@ import { GoogleStrategy } from 'src/strategies/google.strategy';
     TokenModule,
     UserInvitationModule,
     UserModule,
+    FavouritesModule,
   ],
   controllers: [AppController],
   providers: [AppService, GoogleStrategy],
