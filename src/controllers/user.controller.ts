@@ -59,7 +59,6 @@ export class UserController {
       throw new HttpException(error.message, error.status);
     }
   }
-
   //#endregion
 
   //#region GET Get by email

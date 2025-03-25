@@ -22,6 +22,8 @@ import { ResetCodeModule } from 'src/modules/resetcode.module';
 import { TokenModule } from 'src/modules/token.module';
 import { UserInvitationModule } from 'src/modules/user_invitation.module';
 import { UserModule } from 'src/modules/user.module';
+import * as mongoose from 'mongoose';
+
 //
 import { GoogleStrategy } from 'src/strategies/google.strategy';
 //import { SeederService } from 'src/services/seeder.service';
@@ -31,9 +33,18 @@ import { GoogleStrategy } from 'src/strategies/google.strategy';
     MongooseModule.forRootAsync({
       imports: [ConfigModule],
       inject: [ConfigService],
-      useFactory: async (config: ConfigService) => ({
-        uri: config.get<string>('DB_HOST'),
-      }),
+      useFactory: async (config: ConfigService) => {
+        const uri = config.get<string>('DB_HOST');
+        console.log('📡 Connecting to MongoDB at:', uri);
+        try {
+          await mongoose.connect(uri as string);
+          console.log('✅ Connected to MongoDB successfully!');
+        } catch (error) {
+          console.error('❌ Failed to connect to MongoDB:', error);
+        }
+
+        return { uri };
+      },
     }),
     AuthModule,
     CommandModule,
@@ -57,4 +68,6 @@ import { GoogleStrategy } from 'src/strategies/google.strategy';
   controllers: [AppController],
   providers: [AppService, GoogleStrategy],
 })
-export class AppModule {}
+export class AppModule {
+  constructor() {}
+}

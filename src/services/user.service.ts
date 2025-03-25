@@ -46,6 +46,7 @@ export class UserService {
       ...body,
     };
     let document = new this.userModel(create);
+    
     return await document.save();
   }
   //#endregion
