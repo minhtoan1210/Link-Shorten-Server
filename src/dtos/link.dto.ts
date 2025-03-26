@@ -16,4 +16,10 @@ export class LinkUpdateDto {
   //
   @IsOptional()
   active: boolean;
+  //
+  @IsOptional()
+  addtag: string;
+  //
+  @IsOptional()
+  hidden_urls: boolean;
 }

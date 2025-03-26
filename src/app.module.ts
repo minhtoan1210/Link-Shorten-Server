@@ -27,6 +27,8 @@ import * as mongoose from 'mongoose';
 //
 import { GoogleStrategy } from 'src/strategies/google.strategy';
 import { FavouritesModule } from './modules/favourites.module';
+import { TagModule } from './modules/add_tag.module';
+import { HiddenUrlsModule } from './modules/hidden_urls.module';
 //import { SeederService } from 'src/services/seeder.service';
 @Module({
   imports: [
@@ -66,6 +68,8 @@ import { FavouritesModule } from './modules/favourites.module';
     UserInvitationModule,
     UserModule,
     FavouritesModule,
+    TagModule,
+    HiddenUrlsModule
   ],
   controllers: [AppController],
   providers: [AppService, GoogleStrategy],

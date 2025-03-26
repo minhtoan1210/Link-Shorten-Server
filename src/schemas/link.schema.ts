@@ -32,5 +32,8 @@ export class Link {
   //
   @Prop({ default: "" })
   addtag: string;
+  //
+  @Prop({default: false})
+  hidden_urls: boolean;
 }
 export const LinkSchema = SchemaFactory.createForClass(Link);

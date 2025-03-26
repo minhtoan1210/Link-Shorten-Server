@@ -307,6 +307,7 @@ export class LinkController {
         throw new BadRequestException('Cannot find Link with _id ' + id + '.');
       }
       const is_owner = this.authService.isOwner(user._id, link);
+
       if (is_owner == false) {
         throw new BadRequestException(
           'You are not the owner to update Link with _id ' + id,
@@ -321,6 +322,7 @@ export class LinkController {
           }
         }
         let updated = await this.linkService.update(id, body);
+
         return {
           data: updated,
         };
